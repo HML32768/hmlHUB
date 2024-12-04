@@ -15,10 +15,10 @@ function convert (H, L)
 end 
 ```
 - `convert` - function that converts two dec bytes into a hex number (Logic Machine script)
-- `H` - high byte dec
-- `L` - low byte dec
-- `hex_H` - high byte hex
-- `hex_L` - low byte hex
+- `H` - high byte, dec
+- `L` - low byte, dec
+- `hex_H` - high byte, hex
+- `hex_L` - low byte, hex
 - `string.format` - formats string with a given set of rules
 - `"%x"` - present given integer in its hex form
 - `res` - result number as a string
