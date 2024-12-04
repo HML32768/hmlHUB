@@ -1,6 +1,4 @@
-# bit.band
-### Summary
-Bitwise 'and'
+# Bitwise 'and'
 ### Prototype
 ```lua
 n = bit.band (a, b, ...)
