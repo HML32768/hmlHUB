@@ -38,7 +38,7 @@ vectorName.empty();
 
 ### Indexing
 ```C++
-// Assign a new value to an**_existing_**element position:
+// Assign a new value to an EXISTING element position:
 myVector[i] = value;
 ```
 
